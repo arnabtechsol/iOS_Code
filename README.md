@@ -1,7 +1,8 @@
 # iOS_Code
 I developed a demo app to cover some of my coding practices. 
 The name of the app is PlaceFinder. This is a Universal app. It can run in iPhone and iPad.
-The iOS version needed is iOS 10.0 and later. 
+The iOS version needed is iOS 10.0 and later. Pod swifty JSON installed. Open the PlaceFinder.xcworkspace file in Xcode 9.3.
+The Swift Version 4.1.
 
 The functionality of the app are the following:- 
 The user can search any place through the app. Once you search a place the following has been handled inside the code.
